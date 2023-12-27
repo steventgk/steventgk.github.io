@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Steven Gough-Kelly</title>
+    <link>http://www.steventgk.github.io/publication-type/4/</link>
+      <atom:link href="http://www.steventgk.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Fri, 04 Feb 2022 20:01:42 +0000</lastBuildDate>
+    <image>
+      <url>http://www.steventgk.github.io/media/icon.png</url>
+      <title>4</title>
+      <link>http://www.steventgk.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Generation Covid</title>
+      <link>http://www.steventgk.github.io/publication/rascovid/</link>
+      <pubDate>Fri, 04 Feb 2022 20:01:42 +0000</pubDate>
+      <guid>http://www.steventgk.github.io/publication/rascovid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

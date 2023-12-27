@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific Computing | Steven Gough-Kelly</title>
+    <link>http://www.steventgk.github.io/scicomp/</link>
+      <atom:link href="http://www.steventgk.github.io/scicomp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scientific Computing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023</copyright>
+    <image>
+      <url>http://www.steventgk.github.io/media/icon.png</url>
+      <title>Scientific Computing</title>
+      <link>http://www.steventgk.github.io/scicomp/</link>
+    </image>
+    
+  </channel>
+</rss>
