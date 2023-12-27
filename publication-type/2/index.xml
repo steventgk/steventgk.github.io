@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Steven Gough-Kelly</title>
-    <link>http://www.steventgk.github.io/publication-type/2/</link>
-      <atom:link href="http://www.steventgk.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://steventgk.github.io/publication-type/2/</link>
+      <atom:link href="http://steventgk.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Fri, 04 Feb 2022 20:01:42 +0000</lastBuildDate>
     <image>
-      <url>http://www.steventgk.github.io/media/icon.png</url>
+      <url>http://steventgk.github.io/media/icon.png</url>
       <title>2</title>
-      <link>http://www.steventgk.github.io/publication-type/2/</link>
+      <link>http://steventgk.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>Predicted Trends in Milky Way Bulge Proper Motion Rotation Curves: Future Prospects for HST and LSST</title>
-      <link>http://www.steventgk.github.io/publication/pmbs/</link>
+      <link>http://steventgk.github.io/publication/pmbs/</link>
       <pubDate>Fri, 04 Feb 2022 20:01:42 +0000</pubDate>
-      <guid>http://www.steventgk.github.io/publication/pmbs/</guid>
+      <guid>http://steventgk.github.io/publication/pmbs/</guid>
       <description></description>
     </item>
     
