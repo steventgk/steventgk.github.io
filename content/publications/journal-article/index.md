@@ -1,5 +1,6 @@
 ---
 title: "An example journal article"
+draft: true
 authors:
 - me
 - Robert Ford
