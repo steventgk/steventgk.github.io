@@ -71,7 +71,23 @@ sections:
       title: Contact
       subtitle: Feel free to get in contact with any questions or queries.
       text: |-
-        [sgoughkelly@gmail.com](mailto:sgoughkelly@gmail.com)
+        <form class="sgk-contact-form" action="mailto:sgoughkelly@gmail.com" method="post" enctype="text/plain">
+          <div class="sgk-form-grid">
+            <label>
+              <span>Name</span>
+              <input type="text" name="name" autocomplete="name" required>
+            </label>
+            <label>
+              <span>Email</span>
+              <input type="email" name="email" autocomplete="email" required>
+            </label>
+          </div>
+          <label>
+            <span>Message</span>
+            <textarea name="message" rows="6" required></textarea>
+          </label>
+          <button type="submit">Send message</button>
+        </form>
     design:
       columns: '1'
 ---
