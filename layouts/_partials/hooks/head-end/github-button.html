@@ -26,6 +26,32 @@
     max-width: 48rem;
   }
 
+  .sgk-engagement-gallery {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    margin: 2rem 0;
+  }
+
+  .sgk-engagement-gallery figure {
+    margin: 0;
+  }
+
+  .sgk-engagement-gallery img {
+    aspect-ratio: 4 / 3;
+    border-radius: 8px;
+    display: block;
+    object-fit: cover;
+    width: 100%;
+  }
+
+  .sgk-engagement-gallery figcaption {
+    color: color-mix(in srgb, currentColor 75%, transparent);
+    font-size: 0.9rem;
+    line-height: 1.4;
+    margin-top: 0.45rem;
+  }
+
   .sgk-form-grid {
     display: grid;
     gap: 1rem;
@@ -73,6 +99,10 @@
 
   @media (max-width: 640px) {
     .sgk-form-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .sgk-engagement-gallery {
       grid-template-columns: 1fr;
     }
   }

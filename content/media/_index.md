@@ -1,8 +1,7 @@
 ---
 title: Media
 
-# Optional header image (relative to `static/media/` folder).
-header:
+banner:
   caption: "Pleiades Rising | *Moses Holden Telescope, Alston Observatory, University of Central Lancashire* | Image Credit: SGK"
-  image: "IMG_9693-banner.jpg"
+  image: "/media/IMG_9693-banner.jpg"
 ---

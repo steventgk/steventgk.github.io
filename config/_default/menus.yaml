@@ -8,6 +8,9 @@ main:
   - name: Media
     url: media/
     weight: 30
+  - name: Public Engagement
+    url: outreach/
+    weight: 35
   - name: Publications
     url: /#papers
     weight: 40
