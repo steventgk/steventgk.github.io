@@ -37,6 +37,8 @@ links:
     name: "postscript"
   - url: "https://www.aanda.org/10.1051/0004-6361/202558144/pdf"
     name: "pdf"
+  - url: "https://simbad.u-strasbg.fr/simbad/sim-ref?querymethod=bib&simbo=on&submit=submit+bibcode&bibcode=2026A%26A...708A.252F"
+    name: "simbad"
   - url: "http://arxiv.org/abs/2603.18737"
     name: "preprint"
   - url: "https://doi.org/10.1051%2F0004-6361%2F202558144"

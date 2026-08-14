@@ -1,7 +1,7 @@
 ---
 title: ''
 summary: ''
-date: 2022-10-24
+date: 2026-08-14
 type: landing
 
 sections:
@@ -10,11 +10,10 @@ sections:
     content:
       username: me
       text: |-
-        I am a PhD research student at the **[Jeremiah Horrocks Institute](https://www.star.uclan.ac.uk)**, *[University of Central Lancashire](https://www.uclan.ac.uk)* as part of the [Galaxy Dynamics](https://www.star.uclan.ac.uk/~vpd/) research group led by Prof. Victor P. Debattista. My primary research is studying the formation and evolution of box/peanut bulges in barred galaxies by comparing isolated and cosmological simulations to observations of external galaxies and the Milky Way.
+        I am an astrophysics researcher at the **[Jeremiah Horrocks Institute](https://www.star.uclan.ac.uk)**, *[University of Lancashire](https://www.lancashire.ac.uk)*, and part of the [Galaxy Dynamics](https://www.star.uclan.ac.uk/~vpd/) research group led by Prof. Victor P. Debattista. My research combines galaxy simulations with observations to study the formation and evolution of barred galaxies and the Milky Way. In particular, I investigate the kinematics, chemistry, and ages of stellar populations in box/peanut (X-shaped) bulges, with recent work spanning bulge velocity ellipsoids, RR Lyrae and Mira variable stars, and the structure of the Milky Way's star-forming disc.
 
-        My position is funded by the [Moses Holden](/outreach/mholden/) Studentship, dedicated to the Lancashire astronomer and educator. I am currently a Junior Associate of the [LSST:UK Consortium](https://www.lsst.ac.uk) as part of the [Galaxies; Stars, Milky Way and Local Volume Science Collaboration](https://milkyway.science.lsst.org) and a member of the [N-Body Shop](https://nbody.shop/index.html). Part of my current [research](/research/), **Gough-Kelly et al. ([2022](/publications/pmbs/))**, bridges these two memberships by making predictions for kinematic differences between populations within the Milky Way bulge.
+        My PhD was funded by the [Moses Holden](/outreach/mholden/) Studentship, dedicated to the Lancashire astronomer and educator. I am currently a Junior Associate of the [LSST:UK Consortium](https://www.lsst.ac.uk) as part of the [Galaxies; Stars, Milky Way and Local Volume Science Collaboration](https://milkyway.science.lsst.org) and a member of the [N-Body Shop](https://nbody.shop/index.html). Part of my current [research](/research/), **Gough-Kelly et al. ([2022](/publications/pmbs/))**, bridges these two memberships by making predictions for kinematic differences between populations within the Milky Way bulge.
 
-        I am also currently **Vice Chair** of the [Royal Astronomical Society](https://ras.ac.uk/) Early Career Network Steering Committee. Find out more about the network [here](https://ras.ac.uk/education-and-careers/early-career-network-meet-team).
       button:
         text: Download CV
         url: media/SGK-CV.pdf
@@ -65,29 +64,4 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: markdown
-    id: contact
-    content:
-      title: Contact
-      subtitle: Feel free to get in contact with any questions or queries.
-      text: |-
-        <form class="sgk-contact-form" action="mailto:sgoughkelly@gmail.com" method="post" enctype="text/plain">
-          <div class="sgk-form-grid">
-            <label>
-              <span>Name</span>
-              <input type="text" name="name" autocomplete="name" required>
-            </label>
-            <label>
-              <span>Email</span>
-              <input type="email" name="email" autocomplete="email" required>
-            </label>
-          </div>
-          <label>
-            <span>Message</span>
-            <textarea name="message" rows="6" required></textarea>
-          </label>
-          <button type="submit">Send message</button>
-        </form>
-    design:
-      columns: '1'
 ---
